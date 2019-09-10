@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  censor_pixel_height: 1
+  censor_pixel-width: 1
+  x_axis_location: 
+  y_axis_location: 1
+  imgae: one
+
+two:
+  censor_pixel_height: 1
+  censor_pixel-width: 1
+  x_axis_location: 
+  y_axis_location: 1
+  imgae: two
