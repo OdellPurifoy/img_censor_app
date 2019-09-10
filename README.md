@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # censor_app
 # img_censor_app
+# img_censor_app
